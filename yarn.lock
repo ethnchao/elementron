@@ -2704,47 +2704,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-demo-v3@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "electron-demo-v3@workspace:."
-  dependencies:
-    "@iconify-json/ep": ^1.1.10
-    "@playwright/test": ^1.35.1
-    "@types/node": ^20.3.1
-    "@typescript-eslint/eslint-plugin": ^5.61.0
-    "@typescript-eslint/parser": ^5.61.0
-    "@vitejs/plugin-vue": ^4.2.3
-    electron: ^25.2.0
-    electron-builder: ^24.4.0
-    element-plus: ^2.3.6
-    eslint: ^8.44.0
-    eslint-config-prettier: ^8.8.0
-    eslint-config-standard: ^17.1.0
-    eslint-friendly-formatter: ^4.0.1
-    eslint-plugin-import: ^2.27.5
-    eslint-plugin-n: ^16.0.1
-    eslint-plugin-promise: ^6.1.1
-    eslint-plugin-vue: ^9.15.1
-    pinia: ^2.1.4
-    prettier: 3.0.0
-    sass: ^1.63.4
-    sass-loader: ^13.3.2
-    typescript: ^5.1.6
-    unocss: ^0.53.1
-    unplugin-auto-import: ^0.16.6
-    unplugin-vue-components: ^0.25.1
-    vite: ^4.3.9
-    vite-plugin-electron: ^0.12.0
-    vite-plugin-electron-renderer: ^0.14.5
-    vite-plugin-style-import: ^2.0.0
-    vite-ssg: ^0.22.2
-    vue: ^3.3.4
-    vue-eslint-parser: ^9.3.1
-    vue-tsc: ^1.8.3
-    xvfb-maybe: ^0.2.1
-  languageName: unknown
-  linkType: soft
-
 "electron-publish@npm:24.5.0":
   version: 24.5.0
   resolution: "electron-publish@npm:24.5.0"
@@ -2797,6 +2756,47 @@ __metadata:
   checksum: a2579e350b345414fec421002d36f4211b3299816714a33312f64409c092f873bb02c7ebdab2047358bec8f2deb9ec2ce1229daf1813051ba1b58e448207b54c
   languageName: node
   linkType: hard
+
+"elementron@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "elementron@workspace:."
+  dependencies:
+    "@iconify-json/ep": ^1.1.10
+    "@playwright/test": ^1.35.1
+    "@types/node": ^20.3.1
+    "@typescript-eslint/eslint-plugin": ^5.61.0
+    "@typescript-eslint/parser": ^5.61.0
+    "@vitejs/plugin-vue": ^4.2.3
+    electron: ^25.2.0
+    electron-builder: ^24.4.0
+    element-plus: ^2.3.6
+    eslint: ^8.44.0
+    eslint-config-prettier: ^8.8.0
+    eslint-config-standard: ^17.1.0
+    eslint-friendly-formatter: ^4.0.1
+    eslint-plugin-import: ^2.27.5
+    eslint-plugin-n: ^16.0.1
+    eslint-plugin-promise: ^6.1.1
+    eslint-plugin-vue: ^9.15.1
+    pinia: ^2.1.4
+    prettier: 3.0.0
+    sass: ^1.63.4
+    sass-loader: ^13.3.2
+    typescript: ^5.1.6
+    unocss: ^0.53.1
+    unplugin-auto-import: ^0.16.6
+    unplugin-vue-components: ^0.25.1
+    vite: ^4.3.9
+    vite-plugin-electron: ^0.12.0
+    vite-plugin-electron-renderer: ^0.14.5
+    vite-plugin-style-import: ^2.0.0
+    vite-ssg: ^0.22.2
+    vue: ^3.3.4
+    vue-eslint-parser: ^9.3.1
+    vue-tsc: ^1.8.3
+    xvfb-maybe: ^0.2.1
+  languageName: unknown
+  linkType: soft
 
 "emoji-regex@npm:^8.0.0":
   version: 8.0.0
