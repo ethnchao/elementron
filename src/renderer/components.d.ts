@@ -21,6 +21,6 @@ declare module 'vue' {
     ElTag: typeof import('element-plus/es')['ElTag']
     ElText: typeof import('element-plus/es')['ElText']
     HelloWorld: typeof import('./components/HelloWorld.vue')['default']
-    Logos: typeof import('./components/Logos.vue')['default']
+    LogosPanel: typeof import('./components/LogosPanel.vue')['default']
   }
 }

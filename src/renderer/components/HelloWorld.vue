@@ -72,10 +72,10 @@ const handleCountIncrease = (): void => {
     </div>
 
     <div class="my-2">
-      <el-input class="m-2" v-model="input" style="width: 200px" />
+      <el-input v-model="input" class="m-2" style="width: 200px" />
       <el-date-picker
-        class="m-2"
         v-model="curDate"
+        class="m-2"
         type="date"
         placeholder="Pick a day"
       ></el-date-picker>
